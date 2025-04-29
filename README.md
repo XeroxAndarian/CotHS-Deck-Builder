@@ -8,3 +8,5 @@ Deck builder for the Cards of the Heavenly Stars trading card game.
 3. Run `zacetek.exe`
 
 To start a new deck simply import a deck called `NewDeck.txt`
+
+Credit to: A. J. Lebar
