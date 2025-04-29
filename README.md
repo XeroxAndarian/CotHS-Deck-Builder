@@ -3,9 +3,10 @@ Deck builder for the **Cards of the Heavenly Stars** trading card game.
 
 ### Setup Guide
 
-1. Download the App folder
-2. Open dist folder
-3. Run `zacetek.exe`
+1. Download the .zip file from: https://drive.google.com/drive/folders/1s3avM5KYE5w5LSZGslmc7dYael54sosO?usp=sharing
+2. Extract it
+3. Open dist folder
+4. Run `zacetek.exe`
 
 To start a new deck simply import a deck called `NewDeck.txt`
 
