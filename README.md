@@ -14,5 +14,5 @@ Credit to: A. J. Lebar
 
 
 Version History:
-1.0: https://drive.google.com/drive/folders/1s3avM5KYE5w5LSZGslmc7dYael54sosO?usp=sharing \
-2.0: https://drive.google.com/file/d/1PMH-t58Dc-JR2iBQwTT8RfZJKLQkrCZG/view
+- 1.0: https://drive.google.com/drive/folders/1s3avM5KYE5w5LSZGslmc7dYael54sosO?usp=sharing 
+- 2.0: https://drive.google.com/file/d/1PMH-t58Dc-JR2iBQwTT8RfZJKLQkrCZG/view
